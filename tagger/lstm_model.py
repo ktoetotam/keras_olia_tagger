@@ -85,7 +85,7 @@ all_x,X,y =createData(f_test)
 X_test_enc = [[checkForUnk(c) for c in x] for x in X]
 X_test = pad_sequences(X_test_enc, maxlen=maxlen)
 
-
+# ------------------------------- defining the model -------------------------------------------------------------------
 max_features = len(word2ind)
 embedding_size = 650
 hidden_size = 150
@@ -99,10 +99,12 @@ model.add(Activation('softmax'))
 
 model.compile(loss='binary_crossentropy', optimizer='adam')
 
+# ------------------------------- training and saving the model -------------------------------------------------------------------
 batch_size = 32
 model.fit(X_train, y_train, batch_size=batch_size, nb_epoch=30, validation_data=(X_val,y_val))
 model.save("../model/bilstm",True,True)
 
+# ------------------------------- evaluating the model -------------------------------------------------------------------
 def score(yh, pr):
     coords = [np.where(yhh > 0)[0][0] for yhh in yh]
     yh = [yhh[co:] for yhh, co in zip(yh, coords)]
@@ -118,11 +120,12 @@ fyh, fpr = score(yh, pr)
 print 'Training accuracy:', accuracy_score(fyh, fpr)
 print 'Training confusion matrix:'
 print confusion_matrix(fyh, fpr)
-precision_recall_fscore_support(fyh, fpr)
+precision_recall_fscore_support(fyh, fpr) #evaluation on the training set
 
 
 pr = model.predict_classes(X_test)
 
+# ------------------------------- evaluating olia triples -------------------------------------------------------------------
 
 predictions = []
 pred = []
