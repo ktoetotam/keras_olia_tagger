@@ -1,0 +1,874 @@
+Des	Determiner PronounOrDeterminer MorphosyntacticCategory Article 
+andern	AttributiveAdjective MorphosyntacticCategory Adjective 
+Tages	CommonNoun MorphosyntacticCategory Noun 
+sah	FiniteVerb MorphosyntacticCategory Verb 
+Johannes	ProperNoun Noun MorphosyntacticCategory 
+Jesum	ProperNoun Noun MorphosyntacticCategory 
+zu	Preposition Adposition MorphosyntacticCategory 
+sich	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun ReflexivePronoun 
+kommen	NonFiniteVerb Verb MorphosyntacticCategory Participle 
+und	CoordinatingConjunction MorphosyntacticCategory Conjunction 
+sprach	FiniteVerb MorphosyntacticCategory Verb 
+Siehe	FiniteVerb Verb MorphosyntacticCategory ImperativeVerb 
+daß	Determiner PronounOrDeterminer MorphosyntacticCategory Article 
+Lamm	CommonNoun MorphosyntacticCategory Noun 
+Gutes	CommonNoun MorphosyntacticCategory Noun 
+siehe	FiniteVerb Verb MorphosyntacticCategory ImperativeVerb 
+den	Pronoun PronounOrDeterminer MorphosyntacticCategory DemonstrativePronoun 
+die	Pronoun PronounOrDeterminer MorphosyntacticCategory WHPronoun RelativePronoun 
+da	Adverb MorphosyntacticCategory 
+tragen	FiniteVerb MorphosyntacticCategory Verb 
+die	Determiner PronounOrDeterminer MorphosyntacticCategory Article 
+Sünde	CommonNoun MorphosyntacticCategory Noun 
+der	Determiner PronounOrDeterminer MorphosyntacticCategory Article 
+Welt	CommonNoun MorphosyntacticCategory Noun 
+Wechsler	SecondaryPunctuation Punctuation MorphosyntacticCategory SentenceMedialPunctuation 
+	
+dies	Pronoun PronounOrDeterminer MorphosyntacticCategory DemonstrativePronoun 
+ist	FiniteVerb MorphosyntacticCategory Verb 
+die	Pronoun PronounOrDeterminer MorphosyntacticCategory DemonstrativePronoun 
+von	Preposition Adposition MorphosyntacticCategory 
+dem	Pronoun PronounOrDeterminer MorphosyntacticCategory DemonstrativePronoun 
+ich	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+sprach	FiniteVerb MorphosyntacticCategory Verb 
+Nie	Preposition Adposition MorphosyntacticCategory 
+mir	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+kommt	FiniteVerb MorphosyntacticCategory Verb 
+ein	Determiner PronounOrDeterminer MorphosyntacticCategory Article 
+Mann	CommonNoun MorphosyntacticCategory Noun 
+die	Pronoun PronounOrDeterminer MorphosyntacticCategory WHPronoun RelativePronoun 
+vor	Preposition Adposition MorphosyntacticCategory 
+mir	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+gemacht	NonFiniteVerb Verb MorphosyntacticCategory Participle 
+ist	FiniteVerb MorphosyntacticCategory Verb 
+Wechsler	SecondaryPunctuation Punctuation MorphosyntacticCategory SentenceMedialPunctuation 
+denn	CoordinatingConjunction MorphosyntacticCategory Conjunction 
+der	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+war	FiniteVerb MorphosyntacticCategory Verb 
+er	Adverb MorphosyntacticCategory 
+den	SubordinatingConjunction Conjunction MorphosyntacticCategory SubordinatingConjunctionWithInfinite 
+ich	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+	
+tue	Adverb MorphosyntacticCategory 
+zeugte	FiniteVerb MorphosyntacticCategory Verb 
+Johannes	ProperNoun Noun MorphosyntacticCategory 
+Zeugnis	CommonNoun MorphosyntacticCategory Noun 
+von	Preposition Adposition MorphosyntacticCategory 
+ihm	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+und	CoordinatingConjunction MorphosyntacticCategory Conjunction 
+sprach	FiniteVerb MorphosyntacticCategory Verb 
+ich	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+sah	FiniteVerb MorphosyntacticCategory Verb 
+den	Determiner PronounOrDeterminer MorphosyntacticCategory Article 
+Geist	CommonNoun MorphosyntacticCategory Noun 
+wiederkommen	NonFiniteVerb Verb MorphosyntacticCategory Participle 
+also	SubordinatingConjunction Conjunction MorphosyntacticCategory SubordinatingConjunctionWithInfinite 
+ihnen	Determiner PronounOrDeterminer MorphosyntacticCategory Article 
+Tauben	CommonNoun MorphosyntacticCategory Noun 
+von	Preposition Adposition MorphosyntacticCategory 
+dem	Determiner PronounOrDeterminer MorphosyntacticCategory Article 
+Himmel	CommonNoun MorphosyntacticCategory Noun 
+und	CoordinatingConjunction MorphosyntacticCategory Conjunction 
+blieb	FiniteVerb MorphosyntacticCategory Verb 
+auf	Preposition Adposition MorphosyntacticCategory 
+ihm	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+	
+und	CoordinatingConjunction MorphosyntacticCategory Conjunction 
+ich	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+nicht	Particle Unique MorphosyntacticCategory 
+wußte	FiniteVerb MorphosyntacticCategory Verb 
+seiner	Pronoun PronounOrDeterminer MorphosyntacticCategory PossessivePronoun 
+nicht	Particle Unique MorphosyntacticCategory 
+sondern	Adverb MorphosyntacticCategory 
+die	Pronoun PronounOrDeterminer MorphosyntacticCategory DemonstrativePronoun 
+mir	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+sende	FiniteVerb MorphosyntacticCategory Verb 
+in	Preposition Adposition MorphosyntacticCategory 
+dem	Determiner PronounOrDeterminer MorphosyntacticCategory Article 
+Wasser	CommonNoun MorphosyntacticCategory Noun 
+zu	Unique MorphosyntacticCategory Particle 
+taufte	NonFiniteVerb Verb MorphosyntacticCategory Participle 
+Wechsler	SecondaryPunctuation Punctuation MorphosyntacticCategory SentenceMedialPunctuation 
+die	Pronoun PronounOrDeterminer MorphosyntacticCategory DemonstrativePronoun 
+sprach	FiniteVerb MorphosyntacticCategory Verb 
+zu	Preposition Adposition MorphosyntacticCategory 
+mir	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+Orte	Adverb MorphosyntacticCategory 
+weine	Adverb MorphosyntacticCategory 
+du	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+sust	FiniteVerb MorphosyntacticCategory Verb 
+den	Determiner PronounOrDeterminer MorphosyntacticCategory Article 
+Geist	CommonNoun MorphosyntacticCategory Noun 
+bleibend	NonFiniteVerb Verb MorphosyntacticCategory Participle 
+die	Pronoun PronounOrDeterminer MorphosyntacticCategory WHPronoun RelativePronoun 
+da	Adverb MorphosyntacticCategory 
+kommt	FiniteVerb MorphosyntacticCategory Verb 
+daß	Pronoun PronounOrDeterminer MorphosyntacticCategory DemonstrativePronoun 
+ist	FiniteVerb MorphosyntacticCategory Verb 
+die	Pronoun PronounOrDeterminer MorphosyntacticCategory DemonstrativePronoun 
+die	Pronoun PronounOrDeterminer MorphosyntacticCategory WHPronoun RelativePronoun 
+da	Adverb MorphosyntacticCategory 
+tauft	FiniteVerb MorphosyntacticCategory Verb 
+in	Preposition Adposition MorphosyntacticCategory 
+dem	Determiner PronounOrDeterminer MorphosyntacticCategory Article 
+heiligen	AttributiveAdjective MorphosyntacticCategory Adjective 
+Geiste	CommonNoun MorphosyntacticCategory Noun 
+Wechsler	SecondaryPunctuation Punctuation MorphosyntacticCategory SentenceMedialPunctuation 
+	
+Eure	Determiner PronounOrDeterminer MorphosyntacticCategory Article 
+andern	AttributiveAdjective MorphosyntacticCategory Adjective 
+Tages	CommonNoun MorphosyntacticCategory Noun 
+rechter	Adverb MorphosyntacticCategory 
+stand	FiniteVerb MorphosyntacticCategory Verb 
+Johannes	ProperNoun Noun MorphosyntacticCategory 
+und	CoordinatingConjunction MorphosyntacticCategory Conjunction 
+zwei	Numeral Quantifier MorphosyntacticCategory CardinalNumber 
+von	Preposition Adposition MorphosyntacticCategory 
+seinen	Determiner Pronoun PronounOrDeterminer WHDeterminer MorphosyntacticCategory RelativeDeterminer 
+Jüngern	CommonNoun MorphosyntacticCategory Noun 
+	
+Da	Adverb MorphosyntacticCategory 
+hörten	FiniteVerb MorphosyntacticCategory Verb 
+ihnen	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+die	Determiner PronounOrDeterminer MorphosyntacticCategory Article 
+zwei	Numeral Quantifier MorphosyntacticCategory CardinalNumber 
+Jüngern	CommonNoun MorphosyntacticCategory Noun 
+sprachen	FiniteVerb MorphosyntacticCategory Verb 
+und	CoordinatingConjunction MorphosyntacticCategory Conjunction 
+folgten	FiniteVerb MorphosyntacticCategory Verb 
+Jesum	ProperNoun Noun MorphosyntacticCategory 
+Wechsler	SecondaryPunctuation Punctuation MorphosyntacticCategory SentenceMedialPunctuation 
+	
+tue	Adverb MorphosyntacticCategory 
+wandte	FiniteVerb MorphosyntacticCategory Verb 
+sich	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun ReflexivePronoun 
+Jesus	ProperNoun Noun MorphosyntacticCategory 
+umme	Particle Unique MorphosyntacticCategory 
+und	CoordinatingConjunction MorphosyntacticCategory Conjunction 
+sah	FiniteVerb MorphosyntacticCategory Verb 
+sie	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+ihm	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+nachfolgen	NonFiniteVerb Verb MorphosyntacticCategory Infinitive 
+und	CoordinatingConjunction MorphosyntacticCategory Conjunction 
+sprach	FiniteVerb MorphosyntacticCategory Verb 
+zu	Preposition Adposition MorphosyntacticCategory 
+ihnen	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+was	Pronoun PronounOrDeterminer MorphosyntacticCategory WHPronoun InterrogativePronoun RelativePronoun 
+suche	FiniteVerb MorphosyntacticCategory Verb 
+ihr	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+Wechsler	SecondaryPunctuation Punctuation MorphosyntacticCategory SentenceMedialPunctuation 
+tue	Adverb MorphosyntacticCategory 
+sprachen	FiniteVerb MorphosyntacticCategory Verb 
+sie	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+ihm	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+Meister	CommonNoun MorphosyntacticCategory Noun 
+einst	FiniteVerb MorphosyntacticCategory Verb 
+du	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+NULL	MainPunctuation Punctuation MorphosyntacticCategory SentenceFinalPunctuation 
+	
+tue	Adverb MorphosyntacticCategory 
+sprach	FiniteVerb MorphosyntacticCategory Verb 
+der	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+zu	Preposition Adposition MorphosyntacticCategory 
+ein	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+kommt	FiniteVerb MorphosyntacticCategory Verb 
+und	CoordinatingConjunction MorphosyntacticCategory Conjunction 
+Siehe	FiniteVerb Verb MorphosyntacticCategory ImperativeVerb 
+Wechsler	SecondaryPunctuation Punctuation MorphosyntacticCategory SentenceMedialPunctuation 
+tue	Adverb MorphosyntacticCategory 
+kamen	FiniteVerb MorphosyntacticCategory Verb 
+sie	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+und	CoordinatingConjunction MorphosyntacticCategory Conjunction 
+früher	FiniteVerb MorphosyntacticCategory Verb 
+wo	SubordinatingConjunction Conjunction MorphosyntacticCategory 
+der	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+wohnte	FiniteVerb MorphosyntacticCategory Verb 
+sondern	Adverb MorphosyntacticCategory 
+sie	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+blieben	FiniteVerb MorphosyntacticCategory Verb 
+bei	Preposition Adposition MorphosyntacticCategory 
+ihm	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+den	Determiner PronounOrDeterminer MorphosyntacticCategory Article 
+Tag	CommonNoun MorphosyntacticCategory Noun 
+Es	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+war	FiniteVerb MorphosyntacticCategory Verb 
+bei	Preposition Adposition MorphosyntacticCategory 
+der	Determiner PronounOrDeterminer MorphosyntacticCategory Article 
+einen	AttributiveAdjective MorphosyntacticCategory Adjective 
+Stunde	CommonNoun MorphosyntacticCategory Noun 
+	
+tue	Adverb MorphosyntacticCategory 
+ratschlagten	FiniteVerb MorphosyntacticCategory Verb 
+seine	Determiner Pronoun PronounOrDeterminer AttributivePronoun MorphosyntacticCategory PossessivePronoun PossessiveDeterminer 
+Jüngern	CommonNoun MorphosyntacticCategory Noun 
+daß	SubordinatingConjunction Conjunction MorphosyntacticCategory SubordinatingConjunctionWithFiniteClause 
+geschrieben	NonFiniteVerb Verb MorphosyntacticCategory Participle 
+ist	FiniteVerb MorphosyntacticCategory Verb 
+Der	Pronoun PronounOrDeterminer MorphosyntacticCategory DemonstrativePronoun 
+hat	CommonNoun MorphosyntacticCategory Noun 
+deines	Determiner Pronoun PronounOrDeterminer AttributivePronoun MorphosyntacticCategory PossessivePronoun PossessiveDeterminer 
+Hauses	CommonNoun MorphosyntacticCategory Noun 
+hat	FiniteVerb MorphosyntacticCategory Verb 
+es	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+mir	Pronoun PronounOrDeterminer MorphosyntacticCategory WHPronoun RelativePronoun 
+Kephas	NonFiniteVerb Verb MorphosyntacticCategory Participle 
+Wechsler	SecondaryPunctuation Punctuation MorphosyntacticCategory SentenceMedialPunctuation 
+	
+Da	Adverb MorphosyntacticCategory 
+antwortete	FiniteVerb MorphosyntacticCategory Verb 
+ein	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+Jesus	ProperNoun Noun MorphosyntacticCategory 
+und	CoordinatingConjunction MorphosyntacticCategory Conjunction 
+sprach	FiniteVerb MorphosyntacticCategory Verb 
+recht	FiniteVerb Verb MorphosyntacticCategory ImperativeVerb 
+diesen	PronounOrDeterminer Determiner Pronoun AttributivePronoun MorphosyntacticCategory DemonstrativeDeterminer 
+Tempel	CommonNoun MorphosyntacticCategory Noun 
+und	CoordinatingConjunction MorphosyntacticCategory Conjunction 
+hinnen	Preposition Adposition MorphosyntacticCategory 
+drein	Numeral Quantifier MorphosyntacticCategory CardinalNumber 
+Tagen	CommonNoun MorphosyntacticCategory Noun 
+will	AuxiliaryVerb FiniteVerb MorphosyntacticCategory Verb ModalVerb 
+ich	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+ihnen	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+weggefahren	NonFiniteVerb Verb MorphosyntacticCategory Infinitive 
+Wechsler	SecondaryPunctuation Punctuation MorphosyntacticCategory SentenceMedialPunctuation 
+	
+tue	Adverb MorphosyntacticCategory 
+antworteten	FiniteVerb MorphosyntacticCategory Verb 
+ihm	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+die	Determiner PronounOrDeterminer MorphosyntacticCategory Article 
+Juden	CommonNoun MorphosyntacticCategory Noun 
+und	CoordinatingConjunction MorphosyntacticCategory Conjunction 
+sprachen	FiniteVerb MorphosyntacticCategory Verb 
+Sechs	Numeral Quantifier MorphosyntacticCategory CardinalNumber 
+und	CoordinatingConjunction MorphosyntacticCategory Conjunction 
+rein	Numeral Quantifier MorphosyntacticCategory CardinalNumber 
+Jahre	CommonNoun MorphosyntacticCategory Noun 
+ist	FiniteVerb MorphosyntacticCategory Verb 
+Wechsler	SecondaryPunctuation Punctuation MorphosyntacticCategory SentenceMedialPunctuation 
+dieser	PronounOrDeterminer Determiner Pronoun AttributivePronoun MorphosyntacticCategory DemonstrativeDeterminer 
+Tempel	CommonNoun MorphosyntacticCategory Noun 
+und	CoordinatingConjunction MorphosyntacticCategory Conjunction 
+in	Preposition Adposition MorphosyntacticCategory 
+drein	Numeral Quantifier MorphosyntacticCategory CardinalNumber 
+Tagen	CommonNoun MorphosyntacticCategory Noun 
+willst	AuxiliaryVerb FiniteVerb MorphosyntacticCategory Verb ModalVerb 
+du	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+ihnen	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+jedermann	NonFiniteVerb Verb MorphosyntacticCategory Infinitive 
+	
+Da	Adverb MorphosyntacticCategory 
+der	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+von	Preposition Adposition MorphosyntacticCategory 
+Tode	CommonNoun MorphosyntacticCategory Noun 
+war	FiniteVerb MorphosyntacticCategory Verb 
+Ortestehen	NonFiniteVerb Verb MorphosyntacticCategory Infinitive 
+tue	Adverb MorphosyntacticCategory 
+ratschlagten	FiniteVerb MorphosyntacticCategory Verb 
+seine	Determiner Pronoun PronounOrDeterminer AttributivePronoun MorphosyntacticCategory PossessivePronoun PossessiveDeterminer 
+Jünger	CommonNoun MorphosyntacticCategory Noun 
+denn	CoordinatingConjunction MorphosyntacticCategory Conjunction 
+der	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+dies	Pronoun PronounOrDeterminer MorphosyntacticCategory DemonstrativePronoun 
+sprach	FiniteVerb MorphosyntacticCategory Verb 
+Wechsler	SecondaryPunctuation Punctuation MorphosyntacticCategory SentenceMedialPunctuation 
+und	CoordinatingConjunction MorphosyntacticCategory Conjunction 
+sie	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+glaubten	FiniteVerb MorphosyntacticCategory Verb 
+der	Determiner PronounOrDeterminer MorphosyntacticCategory Article 
+Schrift	CommonNoun MorphosyntacticCategory Noun 
+und	CoordinatingConjunction MorphosyntacticCategory Conjunction 
+den	Determiner PronounOrDeterminer MorphosyntacticCategory Article 
+wurden	CommonNoun MorphosyntacticCategory Noun 
+die	Pronoun PronounOrDeterminer MorphosyntacticCategory WHPronoun RelativePronoun 
+Jesus	ProperNoun Noun MorphosyntacticCategory 
+beweise	NonFiniteVerb Verb MorphosyntacticCategory Participle 
+hatte	FiniteVerb MorphosyntacticCategory Verb 
+Wechsler	SecondaryPunctuation Punctuation MorphosyntacticCategory SentenceMedialPunctuation 
+	
+tue	Adverb MorphosyntacticCategory 
+der	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+war	FiniteVerb MorphosyntacticCategory Verb 
+zu	Preposition Adposition MorphosyntacticCategory 
+Jerusalem	ProperNoun Noun MorphosyntacticCategory 
+zu	Preposition Adposition MorphosyntacticCategory 
+Passah	CommonNoun MorphosyntacticCategory Noun 
+in	Preposition Adposition MorphosyntacticCategory 
+dem	Determiner PronounOrDeterminer MorphosyntacticCategory Article 
+Tage	CommonNoun MorphosyntacticCategory Noun 
+der	Determiner PronounOrDeterminer MorphosyntacticCategory Article 
+Fest	CommonNoun MorphosyntacticCategory Noun 
+Da	Adverb MorphosyntacticCategory 
+glaubten	FiniteVerb MorphosyntacticCategory Verb 
+viele	Pronoun PronounOrDeterminer MorphosyntacticCategory IndefinitePronoun 
+in	Preposition Adposition MorphosyntacticCategory 
+seinem	Determiner Pronoun PronounOrDeterminer AttributivePronoun MorphosyntacticCategory PossessivePronoun PossessiveDeterminer 
+Namen	CommonNoun MorphosyntacticCategory Noun 
+Da	Adverb MorphosyntacticCategory 
+sprachen	FiniteVerb MorphosyntacticCategory Verb 
+sie	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+die	Determiner PronounOrDeterminer MorphosyntacticCategory Article 
+Zeichen	CommonNoun MorphosyntacticCategory Noun 
+die	Determiner PronounOrDeterminer MorphosyntacticCategory Article 
+der	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+tat	FiniteVerb MorphosyntacticCategory Verb 
+	
+sondern	Adverb MorphosyntacticCategory 
+Jesus	ProperNoun Noun MorphosyntacticCategory 
+nicht	Particle Unique MorphosyntacticCategory 
+glaubte	FiniteVerb MorphosyntacticCategory Verb 
+sich	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun ReflexivePronoun 
+selbst	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun ReflexivePronoun 
+nicht	Particle Unique MorphosyntacticCategory 
+da	Adverb MorphosyntacticCategory 
+umme	Adverb MorphosyntacticCategory 
+daß	SubordinatingConjunction Conjunction MorphosyntacticCategory SubordinatingConjunctionWithFiniteClause 
+der	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+alle	Determiner PronounOrDeterminer Pronoun MorphosyntacticCategory IndefiniteDeterminer 
+dies	CommonNoun MorphosyntacticCategory Noun 
+bekannte	NonFiniteVerb Verb MorphosyntacticCategory Participle 
+	
+Da	Adverb MorphosyntacticCategory 
+Jesus	ProperNoun Noun MorphosyntacticCategory 
+aufgetan	FiniteVerb MorphosyntacticCategory Verb 
+seine	Determiner Pronoun PronounOrDeterminer AttributivePronoun MorphosyntacticCategory PossessivePronoun PossessiveDeterminer 
+Augen	CommonNoun MorphosyntacticCategory Noun 
+und	CoordinatingConjunction MorphosyntacticCategory Conjunction 
+sah	FiniteVerb MorphosyntacticCategory Verb 
+denn	SubordinatingConjunction Conjunction MorphosyntacticCategory SubordinatingConjunctionWithFiniteClause 
+ein	Determiner PronounOrDeterminer MorphosyntacticCategory Article 
+groß	AttributiveAdjective MorphosyntacticCategory Adjective 
+Kranken	CommonNoun MorphosyntacticCategory Noun 
+zu	Preposition Adposition MorphosyntacticCategory 
+ihm	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+kam	FiniteVerb MorphosyntacticCategory Verb 
+Da	Adverb MorphosyntacticCategory 
+sprach	FiniteVerb MorphosyntacticCategory Verb 
+der	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+zu	Preposition Adposition MorphosyntacticCategory 
+Philippus	ProperNoun Noun MorphosyntacticCategory 
+wo	Pronoun PronounOrDeterminer MorphosyntacticCategory WHPronoun InterrogativePronoun RelativePronoun 
+umgürtet	Preposition Adposition MorphosyntacticCategory 
+rief	FiniteVerb MorphosyntacticCategory Verb 
+wir	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+Brot	CommonNoun MorphosyntacticCategory Noun 
+daß	Pronoun PronounOrDeterminer MorphosyntacticCategory WHPronoun RelativePronoun 
+dieser	Pronoun PronounOrDeterminer MorphosyntacticCategory DemonstrativePronoun 
+wozu	FiniteVerb MorphosyntacticCategory Verb 
+	
+sondern	Adverb MorphosyntacticCategory 
+daß	Pronoun PronounOrDeterminer MorphosyntacticCategory DemonstrativePronoun 
+sprach	FiniteVerb MorphosyntacticCategory Verb 
+ihnen	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+zu	Unique MorphosyntacticCategory Particle 
+beieinander	NonFiniteVerb Verb MorphosyntacticCategory Participle 
+denn	SubordinatingConjunction Conjunction MorphosyntacticCategory SubordinatingConjunctionWithFiniteClause 
+der	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+wußte	FiniteVerb MorphosyntacticCategory Verb 
+recht	Adverb MorphosyntacticCategory 
+was	Pronoun PronounOrDeterminer MorphosyntacticCategory WHPronoun RelativePronoun 
+der	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+wollte	AuxiliaryVerb FiniteVerb MorphosyntacticCategory Verb ModalVerb 
+tun	NonFiniteVerb Verb MorphosyntacticCategory Infinitive 
+	
+Da	Adverb MorphosyntacticCategory 
+antwortete	FiniteVerb MorphosyntacticCategory Verb 
+ihm	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+Philipus	ProperNoun Noun MorphosyntacticCategory 
+und	CoordinatingConjunction MorphosyntacticCategory Conjunction 
+sprach	FiniteVerb MorphosyntacticCategory Verb 
+hundert	Numeral Quantifier MorphosyntacticCategory CardinalNumber 
+hinging	CommonNoun MorphosyntacticCategory Noun 
+Bruder	CommonNoun MorphosyntacticCategory Noun 
+nicht	Particle Unique MorphosyntacticCategory 
+müde	FiniteVerb MorphosyntacticCategory Verb 
+ein	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+nicht	Particle Unique MorphosyntacticCategory 
+daß	SubordinatingConjunction Conjunction MorphosyntacticCategory SubordinatingConjunctionWithFiniteClause 
+da	Adverb MorphosyntacticCategory 
+ein	Determiner PronounOrDeterminer Pronoun MorphosyntacticCategory IndefiniteDeterminer 
+jeder	Pronoun PronounOrDeterminer MorphosyntacticCategory IndefinitePronoun 
+ein	Determiner PronounOrDeterminer MorphosyntacticCategory Article 
+kleine	CommonNoun MorphosyntacticCategory Noun 
+nehme	FiniteVerb MorphosyntacticCategory Verb 
+	
+Da	Adverb MorphosyntacticCategory 
+sprach	FiniteVerb MorphosyntacticCategory Verb 
+zu	Preposition Adposition MorphosyntacticCategory 
+ihm	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+ein	Pronoun PronounOrDeterminer MorphosyntacticCategory IndefinitePronoun 
+von	Preposition Adposition MorphosyntacticCategory 
+seinen	Determiner Pronoun PronounOrDeterminer AttributivePronoun MorphosyntacticCategory PossessivePronoun PossessiveDeterminer 
+Jüngern	CommonNoun MorphosyntacticCategory Noun 
+Andreas	ProperNoun Noun MorphosyntacticCategory 
+die	Determiner PronounOrDeterminer MorphosyntacticCategory Article 
+Bruder	CommonNoun MorphosyntacticCategory Noun 
+zweien	ProperNoun Noun MorphosyntacticCategory 
+zweien	ProperNoun Noun MorphosyntacticCategory 
+	
+hernach	Adverb MorphosyntacticCategory 
+ist	FiniteVerb MorphosyntacticCategory Verb 
+ein	Determiner PronounOrDeterminer MorphosyntacticCategory Article 
+Kind	CommonNoun MorphosyntacticCategory Noun 
+daß	Pronoun PronounOrDeterminer MorphosyntacticCategory DemonstrativePronoun 
+hat	FiniteVerb MorphosyntacticCategory Verb 
+Fib	Numeral Quantifier MorphosyntacticCategory CardinalNumber 
+ersterbe	CommonNoun MorphosyntacticCategory Noun 
+Brot	CommonNoun MorphosyntacticCategory Noun 
+und	CoordinatingConjunction MorphosyntacticCategory Conjunction 
+zwei	Numeral Quantifier MorphosyntacticCategory CardinalNumber 
+Fische	CommonNoun MorphosyntacticCategory Noun 
+sondern	Adverb MorphosyntacticCategory 
+was	Pronoun PronounOrDeterminer MorphosyntacticCategory WHPronoun InterrogativePronoun RelativePronoun 
+haltet	FiniteVerb MorphosyntacticCategory Verb 
+die	Determiner PronounOrDeterminer MorphosyntacticCategory Article 
+unter	Preposition Adposition MorphosyntacticCategory 
+also	SubordinatingConjunction Conjunction MorphosyntacticCategory SubordinatingConjunctionWithInfinite 
+viele	Pronoun PronounOrDeterminer MorphosyntacticCategory IndefinitePronoun 
+	
+Da	Adverb MorphosyntacticCategory 
+sprach	FiniteVerb MorphosyntacticCategory Verb 
+Jesus	ProperNoun Noun MorphosyntacticCategory 
+zu	Preposition Adposition MorphosyntacticCategory 
+ein	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+laßt	FiniteVerb MorphosyntacticCategory Verb 
+die	Determiner PronounOrDeterminer MorphosyntacticCategory Article 
+zweier	CommonNoun MorphosyntacticCategory Noun 
+niedersteigen	NonFiniteVerb Verb MorphosyntacticCategory Infinitive 
+und	CoordinatingConjunction MorphosyntacticCategory Conjunction 
+da	Adverb MorphosyntacticCategory 
+war	FiniteVerb MorphosyntacticCategory Verb 
+viele	Determiner PronounOrDeterminer Pronoun MorphosyntacticCategory IndefiniteDeterminer 
+wohl	CommonNoun MorphosyntacticCategory Noun 
+Orte	Preposition Adposition MorphosyntacticCategory 
+der	Determiner PronounOrDeterminer MorphosyntacticCategory Article 
+Ort	CommonNoun MorphosyntacticCategory Noun 
+sondern	Adverb MorphosyntacticCategory 
+die	Determiner PronounOrDeterminer MorphosyntacticCategory Article 
+Mann	CommonNoun MorphosyntacticCategory Noun 
+setzten	FiniteVerb MorphosyntacticCategory Verb 
+Zeiten	Adverb MorphosyntacticCategory 
+und	CoordinatingConjunction MorphosyntacticCategory Conjunction 
+essen	FiniteVerb MorphosyntacticCategory Verb 
+bei	Preposition Adposition MorphosyntacticCategory 
+Male	CommonNoun MorphosyntacticCategory Noun 
+recht	Adverb MorphosyntacticCategory 
+Fib	Numeral Quantifier MorphosyntacticCategory CardinalNumber 
+taufend	Numeral Quantifier MorphosyntacticCategory CardinalNumber 
+	
+Da	Adverb MorphosyntacticCategory 
+nahm	FiniteVerb MorphosyntacticCategory Verb 
+Jesus	ProperNoun Noun MorphosyntacticCategory 
+die	Determiner PronounOrDeterminer MorphosyntacticCategory Article 
+Brot	CommonNoun MorphosyntacticCategory Noun 
+tue	Adverb MorphosyntacticCategory 
+der	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+hatte	FiniteVerb MorphosyntacticCategory Verb 
+gedenket	NonFiniteVerb Verb MorphosyntacticCategory Participle 
+seinem	Determiner Pronoun PronounOrDeterminer AttributivePronoun MorphosyntacticCategory PossessivePronoun PossessiveDeterminer 
+Vater	CommonNoun MorphosyntacticCategory Noun 
+tue	Adverb MorphosyntacticCategory 
+tat	FiniteVerb MorphosyntacticCategory Verb 
+der	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+sie	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+den	Determiner PronounOrDeterminer MorphosyntacticCategory Article 
+Leuten	CommonNoun MorphosyntacticCategory Noun 
+daß	Determiner PronounOrDeterminer MorphosyntacticCategory Article 
+Salbe	CommonNoun MorphosyntacticCategory Noun 
+tat	FiniteVerb MorphosyntacticCategory Verb 
+der	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+mit	Preposition Adposition MorphosyntacticCategory 
+den	Determiner PronounOrDeterminer MorphosyntacticCategory Article 
+fischen	CommonNoun MorphosyntacticCategory Noun 
+also	SubordinatingConjunction Conjunction MorphosyntacticCategory SubordinatingConjunctionWithInfinite 
+viele	Pronoun PronounOrDeterminer MorphosyntacticCategory IndefinitePronoun 
+also	SubordinatingConjunction Conjunction MorphosyntacticCategory SubordinatingConjunctionWithInfinite 
+der	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+wollte	AuxiliaryVerb FiniteVerb MorphosyntacticCategory Verb ModalVerb 
+	
+Da	Adverb MorphosyntacticCategory 
+sie	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+setzte	PredicativeAdjective Adjective MorphosyntacticCategory 
+waren	FiniteVerb MorphosyntacticCategory Verb 
+tue	Adverb MorphosyntacticCategory 
+sprach	FiniteVerb MorphosyntacticCategory Verb 
+der	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+zu	Preposition Adposition MorphosyntacticCategory 
+seinen	Determiner Pronoun PronounOrDeterminer AttributivePronoun MorphosyntacticCategory PossessivePronoun PossessiveDeterminer 
+Jüngern	CommonNoun MorphosyntacticCategory Noun 
+wandelt	FiniteVerb Verb MorphosyntacticCategory ImperativeVerb 
+auf	Particle Unique MorphosyntacticCategory 
+die	Determiner PronounOrDeterminer MorphosyntacticCategory Article 
+Stück	CommonNoun MorphosyntacticCategory Noun 
+daß	SubordinatingConjunction Conjunction MorphosyntacticCategory SubordinatingConjunctionWithFiniteClause 
+nicht	Particle Unique MorphosyntacticCategory 
+nicht	Particle Unique MorphosyntacticCategory 
+verloren	FiniteVerb MorphosyntacticCategory Verb 
+	
+Da	Adverb MorphosyntacticCategory 
+nehmen	FiniteVerb MorphosyntacticCategory Verb 
+sie	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+auf	Particle Unique MorphosyntacticCategory 
+und	CoordinatingConjunction MorphosyntacticCategory Conjunction 
+füllten	FiniteVerb MorphosyntacticCategory Verb 
+da	Pronoun PronounOrDeterminer MorphosyntacticCategory DemonstrativePronoun 
+umgürtet	Preposition Adposition MorphosyntacticCategory 
+Stunden	Numeral Quantifier MorphosyntacticCategory CardinalNumber 
+Worte	CommonNoun MorphosyntacticCategory Noun 
+von	Preposition Adposition MorphosyntacticCategory 
+den	Determiner PronounOrDeterminer MorphosyntacticCategory Article 
+Fib	Numeral Quantifier MorphosyntacticCategory CardinalNumber 
+verstehen	AttributiveAdjective MorphosyntacticCategory Adjective 
+Broten	CommonNoun MorphosyntacticCategory Noun 
+die	Pronoun PronounOrDeterminer MorphosyntacticCategory WHPronoun RelativePronoun 
+da	Adverb MorphosyntacticCategory 
+übergeben	FiniteVerb MorphosyntacticCategory Verb 
+den	Pronoun PronounOrDeterminer MorphosyntacticCategory DemonstrativePronoun 
+die	Pronoun PronounOrDeterminer MorphosyntacticCategory WHPronoun RelativePronoun 
+da	Adverb MorphosyntacticCategory 
+wozu	FiniteVerb MorphosyntacticCategory Verb 
+	
+Da	Adverb MorphosyntacticCategory 
+die	Determiner PronounOrDeterminer MorphosyntacticCategory Article 
+zweier	CommonNoun MorphosyntacticCategory Noun 
+sahen	FiniteVerb MorphosyntacticCategory Verb 
+daß	Determiner PronounOrDeterminer MorphosyntacticCategory Article 
+Zeichen	CommonNoun MorphosyntacticCategory Noun 
+daß	SubordinatingConjunction Conjunction MorphosyntacticCategory SubordinatingConjunctionWithFiniteClause 
+der	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+tat	FiniteVerb MorphosyntacticCategory Verb 
+Da	Adverb MorphosyntacticCategory 
+sprachen	FiniteVerb MorphosyntacticCategory Verb 
+sie	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+Heiland	Adverb MorphosyntacticCategory 
+dies	Pronoun PronounOrDeterminer MorphosyntacticCategory DemonstrativePronoun 
+ist	FiniteVerb MorphosyntacticCategory Verb 
+ein	Determiner PronounOrDeterminer MorphosyntacticCategory Article 
+Prophet	CommonNoun MorphosyntacticCategory Noun 
+tat	Adverb MorphosyntacticCategory Pronoun PronounOrDeterminer WHPronoun RelativePronoun 
+kommen	NonFiniteVerb Verb MorphosyntacticCategory Participle 
+ist	FiniteVerb MorphosyntacticCategory Verb 
+in	Preposition Adposition MorphosyntacticCategory 
+die	Determiner PronounOrDeterminer MorphosyntacticCategory Article 
+Welt	CommonNoun MorphosyntacticCategory Noun 
+	
+Da	Adverb MorphosyntacticCategory 
+Jesus	ProperNoun Noun MorphosyntacticCategory 
+wußte	FiniteVerb MorphosyntacticCategory Verb 
+daß	Pronoun PronounOrDeterminer MorphosyntacticCategory WHPronoun RelativePronoun 
+sie	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+kommen	NonFiniteVerb Verb MorphosyntacticCategory Infinitive 
+wollten	FiniteVerb MorphosyntacticCategory Verb 
+und	CoordinatingConjunction MorphosyntacticCategory Conjunction 
+greifen	FiniteVerb MorphosyntacticCategory Verb 
+ihnen	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+daß	Pronoun PronounOrDeterminer MorphosyntacticCategory WHPronoun RelativePronoun 
+sie	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+ihnen	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+machten	FiniteVerb MorphosyntacticCategory Verb 
+zu	Preposition Adposition MorphosyntacticCategory 
+erleuchtet	Determiner PronounOrDeterminer MorphosyntacticCategory Article 
+König	CommonNoun MorphosyntacticCategory Noun 
+tue	Adverb MorphosyntacticCategory 
+Fluch	FiniteVerb MorphosyntacticCategory Verb 
+der	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+wieder	Adverb MorphosyntacticCategory 
+allein	Adverb MorphosyntacticCategory 
+in	Preposition Adposition MorphosyntacticCategory 
+daß	Determiner PronounOrDeterminer MorphosyntacticCategory Article 
+Gerede	CommonNoun MorphosyntacticCategory Noun 
+	
+Da	Adverb MorphosyntacticCategory 
+machte	FiniteVerb MorphosyntacticCategory Verb 
+sie	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+ihm	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+ein	Determiner PronounOrDeterminer MorphosyntacticCategory Article 
+Abendessens	CommonNoun MorphosyntacticCategory Noun 
+und	CoordinatingConjunction MorphosyntacticCategory Conjunction 
+Martha	ProperNoun Noun MorphosyntacticCategory 
+die	Pronoun PronounOrDeterminer MorphosyntacticCategory WHPronoun RelativePronoun 
+dient	FiniteVerb MorphosyntacticCategory Verb 
+ihm	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+und	CoordinatingConjunction MorphosyntacticCategory Conjunction 
+Lazarus	ProperNoun Noun MorphosyntacticCategory 
+war	FiniteVerb MorphosyntacticCategory Verb 
+ein	Pronoun PronounOrDeterminer MorphosyntacticCategory IndefinitePronoun 
+von	Preposition Adposition MorphosyntacticCategory 
+dem	Pronoun PronounOrDeterminer MorphosyntacticCategory IndefinitePronoun 
+die	Pronoun PronounOrDeterminer MorphosyntacticCategory WHPronoun RelativePronoun 
+mit	Preposition Adposition MorphosyntacticCategory 
+ein	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+essen	FiniteVerb MorphosyntacticCategory Verb 
+	
+Da	Adverb MorphosyntacticCategory 
+nahm	FiniteVerb MorphosyntacticCategory Verb 
+Maria	ProperNoun Noun MorphosyntacticCategory 
+ein	Determiner PronounOrDeterminer MorphosyntacticCategory Article 
+weißt	CommonNoun MorphosyntacticCategory Noun 
+eurer	AttributiveAdjective MorphosyntacticCategory Adjective 
+salbte	CommonNoun MorphosyntacticCategory Noun 
+und	CoordinatingConjunction MorphosyntacticCategory Conjunction 
+salbte	FiniteVerb MorphosyntacticCategory Verb 
+seine	Determiner Pronoun PronounOrDeterminer AttributivePronoun MorphosyntacticCategory PossessivePronoun PossessiveDeterminer 
+Füße	CommonNoun MorphosyntacticCategory Noun 
+und	CoordinatingConjunction MorphosyntacticCategory Conjunction 
+getrocknet	FiniteVerb MorphosyntacticCategory Verb 
+seine	Determiner Pronoun PronounOrDeterminer AttributivePronoun MorphosyntacticCategory PossessivePronoun PossessiveDeterminer 
+Füße	CommonNoun MorphosyntacticCategory Noun 
+mit	Preposition Adposition MorphosyntacticCategory 
+ihren	Pronoun PronounOrDeterminer MorphosyntacticCategory PossessivePronoun 
+deren	CommonNoun MorphosyntacticCategory Noun 
+und	CoordinatingConjunction MorphosyntacticCategory Conjunction 
+daß	Determiner PronounOrDeterminer MorphosyntacticCategory Article 
+Haus	CommonNoun MorphosyntacticCategory Noun 
+ward	FiniteVerb MorphosyntacticCategory Verb 
+erfüllet	NonFiniteVerb Verb MorphosyntacticCategory Participle 
+mit	Preposition Adposition MorphosyntacticCategory 
+dem	Determiner PronounOrDeterminer MorphosyntacticCategory Article 
+suche	CommonNoun MorphosyntacticCategory Noun 
+der	Determiner PronounOrDeterminer MorphosyntacticCategory Article 
+dannen	AttributiveAdjective MorphosyntacticCategory Adjective 
+salbte	CommonNoun MorphosyntacticCategory Noun 
+	
+Da	Adverb MorphosyntacticCategory 
+sprach	FiniteVerb MorphosyntacticCategory Verb 
+ein	Pronoun PronounOrDeterminer MorphosyntacticCategory IndefinitePronoun 
+von	Preposition Adposition MorphosyntacticCategory 
+seinen	Determiner Pronoun PronounOrDeterminer AttributivePronoun MorphosyntacticCategory PossessivePronoun PossessiveDeterminer 
+Jüngern	CommonNoun MorphosyntacticCategory Noun 
+Judas	ProperNoun Noun MorphosyntacticCategory 
+Ischariot	ProperNoun Noun MorphosyntacticCategory 
+Der	Pronoun PronounOrDeterminer MorphosyntacticCategory WHPronoun RelativePronoun 
+ihnen	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+verraten	NonFiniteVerb Verb MorphosyntacticCategory Infinitive 
+wollte	AuxiliaryVerb FiniteVerb MorphosyntacticCategory Verb ModalVerb 
+	
+wo	Pronoun PronounOrDeterminer MorphosyntacticCategory WHPronoun InterrogativePronoun RelativePronoun 
+umme	Preposition Adposition MorphosyntacticCategory 
+nicht	Particle Unique MorphosyntacticCategory 
+verklagt	FiniteVerb MorphosyntacticCategory Verb 
+die	Pronoun PronounOrDeterminer MorphosyntacticCategory IndefinitePronoun 
+nicht	Particle Unique MorphosyntacticCategory 
+dieser	PronounOrDeterminer Determiner Pronoun AttributivePronoun MorphosyntacticCategory DemonstrativeDeterminer 
+salbte	CommonNoun MorphosyntacticCategory Noun 
+Same	Preposition Adposition MorphosyntacticCategory 
+zweihundert	Numeral Quantifier MorphosyntacticCategory CardinalNumber 
+hinging	CommonNoun MorphosyntacticCategory Noun 
+und	CoordinatingConjunction MorphosyntacticCategory Conjunction 
+hatte	FiniteVerb MorphosyntacticCategory Verb 
+Armen	AttributiveAdjective MorphosyntacticCategory Adjective 
+Leuten	CommonNoun MorphosyntacticCategory Noun 
+gegeben	NonFiniteVerb Verb MorphosyntacticCategory Participle 
+	
+daß	Pronoun PronounOrDeterminer MorphosyntacticCategory DemonstrativePronoun 
+nicht	Particle Unique MorphosyntacticCategory 
+sprach	FiniteVerb MorphosyntacticCategory Verb 
+der	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+nicht	Particle Unique MorphosyntacticCategory 
+von	Preposition Adposition MorphosyntacticCategory 
+den	Determiner PronounOrDeterminer MorphosyntacticCategory Article 
+Armen	CommonNoun MorphosyntacticCategory Noun 
+was	Pronoun PronounOrDeterminer MorphosyntacticCategory WHPronoun RelativePronoun 
+zu	Preposition Adposition MorphosyntacticCategory 
+ihm	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+hörte	NonFiniteVerb Verb MorphosyntacticCategory Participle 
+denn	SubordinatingConjunction Conjunction MorphosyntacticCategory SubordinatingConjunctionWithFiniteClause 
+der	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+ein	Determiner PronounOrDeterminer MorphosyntacticCategory Article 
+Dieb	CommonNoun MorphosyntacticCategory Noun 
+war	FiniteVerb MorphosyntacticCategory Verb 
+und	CoordinatingConjunction MorphosyntacticCategory Conjunction 
+trug	FiniteVerb MorphosyntacticCategory Verb 
+daß	SubordinatingConjunction Conjunction MorphosyntacticCategory SubordinatingConjunctionWithFiniteClause 
+solle	Pronoun PronounOrDeterminer MorphosyntacticCategory IndefinitePronoun 
+ein	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+gab	FiniteVerb MorphosyntacticCategory Verb 
+	
+Da	Adverb MorphosyntacticCategory 
+sprach	FiniteVerb MorphosyntacticCategory Verb 
+Jesus	ProperNoun Noun MorphosyntacticCategory 
+Stecke	FiniteVerb Verb MorphosyntacticCategory ImperativeVerb 
+sie	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+daß	SubordinatingConjunction Conjunction MorphosyntacticCategory SubordinatingConjunctionWithFiniteClause 
+sie	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+mir	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+halten	FiniteVerb MorphosyntacticCategory Verb 
+in	Preposition Adposition MorphosyntacticCategory 
+den	Determiner PronounOrDeterminer MorphosyntacticCategory Article 
+Tag	CommonNoun MorphosyntacticCategory Noun 
+meiner	Determiner Pronoun PronounOrDeterminer AttributivePronoun MorphosyntacticCategory PossessivePronoun PossessiveDeterminer 
+Grabt	CommonNoun MorphosyntacticCategory Noun 
+	
+Des	Determiner PronounOrDeterminer MorphosyntacticCategory Article 
+andern	AttributiveAdjective MorphosyntacticCategory Adjective 
+Tages	CommonNoun MorphosyntacticCategory Noun 
+große	AttributiveAdjective MorphosyntacticCategory Adjective 
+Schar	CommonNoun MorphosyntacticCategory Noun 
+die	Pronoun PronounOrDeterminer MorphosyntacticCategory WHPronoun RelativePronoun 
+da	Adverb MorphosyntacticCategory 
+kommen	NonFiniteVerb Verb MorphosyntacticCategory Participle 
+waren	FiniteVerb MorphosyntacticCategory Verb 
+zu	Preposition Adposition MorphosyntacticCategory 
+dem	Determiner PronounOrDeterminer MorphosyntacticCategory Article 
+Tage	CommonNoun MorphosyntacticCategory Noun 
+der	Determiner PronounOrDeterminer MorphosyntacticCategory Article 
+Kirchweihe	CommonNoun MorphosyntacticCategory Noun 
+Da	Adverb MorphosyntacticCategory 
+sie	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+hörten	FiniteVerb MorphosyntacticCategory Verb 
+daß	SubordinatingConjunction Conjunction MorphosyntacticCategory SubordinatingConjunctionWithFiniteClause 
+Jesum	ProperNoun Noun MorphosyntacticCategory 
+Königischer	FiniteVerb MorphosyntacticCategory Verb 
+zu	Preposition Adposition MorphosyntacticCategory 
+Jerusalem	ProperNoun Noun MorphosyntacticCategory 
+	
+Da	Adverb MorphosyntacticCategory 
+nehmen	FiniteVerb MorphosyntacticCategory Verb 
+sie	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+zeugen	CommonNoun MorphosyntacticCategory Noun 
+der	Determiner PronounOrDeterminer MorphosyntacticCategory Article 
+nahmen	CommonNoun MorphosyntacticCategory Noun 
+und	CoordinatingConjunction MorphosyntacticCategory Conjunction 
+gingen	FiniteVerb MorphosyntacticCategory Verb 
+ihm	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+entgegen	Adverb MorphosyntacticCategory 
+und	CoordinatingConjunction MorphosyntacticCategory Conjunction 
+sprachen	FiniteVerb MorphosyntacticCategory Verb 
+gewebt	FiniteVerb Verb MorphosyntacticCategory ImperativeVerb 
+sei	FiniteVerb Verb MorphosyntacticCategory ImperativeVerb 
+die	Pronoun PronounOrDeterminer MorphosyntacticCategory DemonstrativePronoun 
+die	Pronoun PronounOrDeterminer MorphosyntacticCategory WHPronoun RelativePronoun 
+da	Adverb MorphosyntacticCategory 
+kommt	FiniteVerb MorphosyntacticCategory Verb 
+in	Preposition Adposition MorphosyntacticCategory 
+den	Determiner PronounOrDeterminer MorphosyntacticCategory Article 
+Namen	CommonNoun MorphosyntacticCategory Noun 
+des	Determiner PronounOrDeterminer MorphosyntacticCategory Article 
+Herrn	CommonNoun MorphosyntacticCategory Noun 
+König	CommonNoun MorphosyntacticCategory Noun 
+von	Preposition Adposition MorphosyntacticCategory 
+Israel	ProperNoun Noun MorphosyntacticCategory 
+	
+Da	Adverb MorphosyntacticCategory 
+findet	FiniteVerb MorphosyntacticCategory Verb 
+Jesus	ProperNoun Noun MorphosyntacticCategory 
+einen	Determiner PronounOrDeterminer MorphosyntacticCategory Article 
+essen	CommonNoun MorphosyntacticCategory Noun 
+und	CoordinatingConjunction MorphosyntacticCategory Conjunction 
+setzte	FiniteVerb MorphosyntacticCategory Verb 
+auf	Preposition Adposition MorphosyntacticCategory 
+ein	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+also	SubordinatingConjunction Conjunction MorphosyntacticCategory SubordinatingConjunctionWithInfinite 
+da	Adverb MorphosyntacticCategory 
+geschrieben	NonFiniteVerb Verb MorphosyntacticCategory Participle 
+ist	FiniteVerb MorphosyntacticCategory Verb 
+	
+Du	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+nicht	Particle Unique MorphosyntacticCategory 
+sollst	AuxiliaryVerb FiniteVerb MorphosyntacticCategory Verb ModalVerb 
+nicht	Particle Unique MorphosyntacticCategory 
+fürchte	NonFiniteVerb Verb MorphosyntacticCategory Infinitive 
+Richter	CommonNoun MorphosyntacticCategory Noun 
+von	Preposition Adposition MorphosyntacticCategory 
+seien	ProperNoun Noun MorphosyntacticCategory 
+Komm	FiniteVerb Verb MorphosyntacticCategory ImperativeVerb 
+dir	Determiner Pronoun PronounOrDeterminer AttributivePronoun MorphosyntacticCategory PossessivePronoun PossessiveDeterminer 
+König	CommonNoun MorphosyntacticCategory Noun 
+kommt	NonFiniteVerb Verb MorphosyntacticCategory Infinitive 
+sitzen	NonFiniteVerb Verb MorphosyntacticCategory Participle 
+auf	Preposition Adposition MorphosyntacticCategory 
+ihm	Determiner PronounOrDeterminer MorphosyntacticCategory Article 
+Seele	CommonNoun MorphosyntacticCategory Noun 
+	
+Des	Pronoun PronounOrDeterminer MorphosyntacticCategory DemonstrativePronoun 
+bekannten	FiniteVerb MorphosyntacticCategory Verb 
+seine	Determiner Pronoun PronounOrDeterminer AttributivePronoun MorphosyntacticCategory PossessivePronoun PossessiveDeterminer 
+Jüngern	CommonNoun MorphosyntacticCategory Noun 
+nicht	Particle Unique MorphosyntacticCategory 
+zu	Preposition Adposition MorphosyntacticCategory 
+dem	Determiner PronounOrDeterminer MorphosyntacticCategory Article 
+ersten	CommonNoun MorphosyntacticCategory Noun 
+Da	Adverb MorphosyntacticCategory 
+Jesus	ProperNoun Noun MorphosyntacticCategory 
+war	FiniteVerb MorphosyntacticCategory Verb 
+geehrt	NonFiniteVerb Verb MorphosyntacticCategory Participle 
+Da	Adverb MorphosyntacticCategory 
+ratschlagten	FiniteVerb MorphosyntacticCategory Verb 
+sie	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+denn	SubordinatingConjunction Conjunction MorphosyntacticCategory SubordinatingConjunctionWithFiniteClause 
+dieser	PronounOrDeterminer Determiner Pronoun AttributivePronoun MorphosyntacticCategory DemonstrativeDeterminer 
+dies	CommonNoun MorphosyntacticCategory Noun 
+geschrieben	NonFiniteVerb Verb MorphosyntacticCategory Participle 
+waren	FiniteVerb MorphosyntacticCategory Verb 
+von	Preposition Adposition MorphosyntacticCategory 
+ihm	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+sondern	Adverb MorphosyntacticCategory 
+Diese	PronounOrDeterminer Determiner Pronoun AttributivePronoun MorphosyntacticCategory DemonstrativeDeterminer 
+dies	CommonNoun MorphosyntacticCategory Noun 
+legten	FiniteVerb MorphosyntacticCategory Verb 
+sie	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+ihm	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+	
+Der	Determiner PronounOrDeterminer MorphosyntacticCategory Article 
+Schar	CommonNoun MorphosyntacticCategory Noun 
+gab	FiniteVerb MorphosyntacticCategory Verb 
+Zeugnis	CommonNoun MorphosyntacticCategory Noun 
+von	Preposition Adposition MorphosyntacticCategory 
+ihm	Pronoun PronounOrDeterminer MorphosyntacticCategory IndefinitePronoun 
+die	Pronoun PronounOrDeterminer MorphosyntacticCategory WHPronoun RelativePronoun 
+mit	Preposition Adposition MorphosyntacticCategory 
+ihm	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+war	FiniteVerb MorphosyntacticCategory Verb 
+Da	Adverb MorphosyntacticCategory 
+der	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+Lazarus	ProperNoun Noun MorphosyntacticCategory 
+rief	FiniteVerb MorphosyntacticCategory Verb 
+Gerede	Preposition Adposition MorphosyntacticCategory 
+dem	Determiner PronounOrDeterminer MorphosyntacticCategory Article 
+Grabe	CommonNoun MorphosyntacticCategory Noun 
+und	CoordinatingConjunction MorphosyntacticCategory Conjunction 
+ein	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+auferweckt	FiniteVerb MorphosyntacticCategory Verb 
+von	Preposition Adposition MorphosyntacticCategory 
+Tode	CommonNoun MorphosyntacticCategory Noun 
+	
+Darnach	Pronoun PronounOrDeterminer MorphosyntacticCategory IndefinitePronoun 
+umme	Preposition Adposition MorphosyntacticCategory 
+kamen	FiniteVerb MorphosyntacticCategory Verb 
+ihm	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+entgegen	Adverb MorphosyntacticCategory 
+die	Determiner PronounOrDeterminer MorphosyntacticCategory Article 
+Schar	CommonNoun MorphosyntacticCategory Noun 
+denn	SubordinatingConjunction Conjunction MorphosyntacticCategory SubordinatingConjunctionWithFiniteClause 
+sie	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+gehört	NonFiniteVerb Verb MorphosyntacticCategory Participle 
+hatten	FiniteVerb MorphosyntacticCategory Verb 
+daß	SubordinatingConjunction Conjunction MorphosyntacticCategory SubordinatingConjunctionWithFiniteClause 
+der	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+daß	Determiner PronounOrDeterminer MorphosyntacticCategory Article 
+Zeichen	CommonNoun MorphosyntacticCategory Noun 
+getan	NonFiniteVerb Verb MorphosyntacticCategory Participle 
+hatte	FiniteVerb MorphosyntacticCategory Verb 
+	
+Da	Adverb MorphosyntacticCategory 
+sprachen	FiniteVerb MorphosyntacticCategory Verb 
+Der	Determiner PronounOrDeterminer MorphosyntacticCategory Article 
+Pharisäer	ProperNoun Noun MorphosyntacticCategory 
+ihr	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+sehet	FiniteVerb MorphosyntacticCategory Verb 
+recht	Adverb MorphosyntacticCategory 
+daß	SubordinatingConjunction Conjunction MorphosyntacticCategory SubordinatingConjunctionWithFiniteClause 
+wir	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+nicht	Particle Unique MorphosyntacticCategory 
+fort	Adverb MorphosyntacticCategory 
+nicht	Particle Unique MorphosyntacticCategory 
+gehen	NonFiniteVerb Verb MorphosyntacticCategory Infinitive 
+Seht	FiniteVerb Verb MorphosyntacticCategory ImperativeVerb 
+alle	Adverb MorphosyntacticCategory 
+daß	Determiner PronounOrDeterminer MorphosyntacticCategory Article 
+Volk	CommonNoun MorphosyntacticCategory Noun 
+ist	FiniteVerb MorphosyntacticCategory Verb 
+nach	Preposition Adposition MorphosyntacticCategory 
+ihm	PronounOrDeterminer Pronoun MorphosyntacticCategory PersReflPronoun PersonalPronoun 
+gehen	NonFiniteVerb Verb MorphosyntacticCategory Participle 
+	
