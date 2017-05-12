@@ -87,7 +87,7 @@ X_test = pad_sequences(X_test_enc, maxlen=maxlen)
 
 # ------------------------------- defining the model -------------------------------------------------------------------
 max_features = len(word2ind)
-embedding_size = 650
+embedding_size = 500
 hidden_size = 150
 out_size = len(label2ind) + 1
 
@@ -101,7 +101,7 @@ model.compile(loss='binary_crossentropy', optimizer='adam')
 
 # ------------------------------- training and saving the model -------------------------------------------------------------------
 batch_size = 32
-model.fit(X_train, y_train, batch_size=batch_size, nb_epoch=30, validation_data=(X_val,y_val))
+model.fit(X_train, y_train, batch_size=batch_size, nb_epoch=15, validation_data=(X_val,y_val))
 model.save("../model/bilstm",True,True)
 
 # ------------------------------- evaluating the model -------------------------------------------------------------------
@@ -138,21 +138,15 @@ for i in range(0, len(X_test_enc)):
         if (p[j] in ind2label):
             label = ind2label[p[j]]
         pred.append(label)
-        print word,label
     predictions.append(pred)
     pred = []
-    print
-
-
 
 def triple_score(predictions, y):
     truePositve = 0.0
     falsePositive = 0.0
     for k in range(0,len(predictions)):
-
         pred = predictions[k]
         y_gold = y[k]
-
         for i in range(0,len(pred)):
             pr = re.split("\\|",pred[i])[1:]
             y_tr = re.split("\\|",y_gold[i])[1:]
